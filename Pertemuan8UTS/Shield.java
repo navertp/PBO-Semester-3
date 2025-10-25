@@ -1,4 +1,4 @@
-package Pertemuan7UTS;
+package Pertemuan8UTS;
 
 public class Shield implements StatusEffect {
     public int duration;

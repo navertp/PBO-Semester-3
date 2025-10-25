@@ -1,4 +1,4 @@
-package Pertemuan7UTS;
+package Pertemuan8UTS;
 
 public class LevelScaledStrategy implements AttackStrategy {
     private int bonusPerLevel;

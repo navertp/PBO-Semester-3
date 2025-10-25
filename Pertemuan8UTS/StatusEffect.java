@@ -1,4 +1,4 @@
-package Pertemuan7UTS;
+package Pertemuan8UTS;
 
 public interface StatusEffect {
     void onTurnStart(Character self);

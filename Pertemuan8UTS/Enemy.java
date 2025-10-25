@@ -1,4 +1,4 @@
-package Pertemuan7UTS;
+package Pertemuan8UTS;
 
 public abstract class Enemy extends Character {
     private int threatLevel;

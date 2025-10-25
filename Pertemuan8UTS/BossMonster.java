@@ -1,4 +1,4 @@
-package Pertemuan7UTS;
+package Pertemuan8UTS;
 
 public class BossMonster extends Enemy {
     private int turnCounter = 0;
